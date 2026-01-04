@@ -1,17 +1,16 @@
 
+[![cche0214](https://img.shields.io/badge/cche0214-github-blue?logo=github)](https://github.com/cche0214)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am an undergraduate student majoring in Data Science and Big Data Technology at the School of Computer Science and Technology / School of Artificial Intelligence, China University of Mining and Technology (CUMT).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 08232716@cumt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
 
